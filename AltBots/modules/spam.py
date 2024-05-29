@@ -1,4 +1,4 @@
-# © @PyXen
+# © @GAMECHANGER_II
 import asyncio
 
 from AltBots.data import GROUP, PORMS
